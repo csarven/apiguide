@@ -15,7 +15,7 @@ But in most cases the API will be implementing an agency specific service so the
  * iCalendar for events 
  * vCard (or jCard) for name & address
  * KML geospatial data
- * Microformats when embedding structured data in HTML. 
+ * RDFa when embedding structured data in HTML. 
 
 Some useful resources for standard terms and codes that can be used to construct more understandable and interoperable APIs are:
 
